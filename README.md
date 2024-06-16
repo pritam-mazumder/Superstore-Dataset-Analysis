@@ -19,19 +19,19 @@ To prepare the data for analysis, several pre-processing steps were performed, i
 
 ## Key findings:
 
-📝 Order priorities analysis
-📝 Ship mode analysis
-📝 Product category analysis with respect to shipping mode
-📝 Customer Segment analysis
-📝 Product category sales analysis
-📝 Sub-product category with respect to product category sales analysis
-📝 Sales analysis per year
-📝 Top 5 State or Province with highest sales
-📝 Profit analysis with respect to product category
-📝 Product base margin analysis with respect to product category
-📝 State wise sales analysis
-📝 Profits analysis across states
-📝 Region wise sale analysis
+📝 Order priorities analysis\
+📝 Ship mode analysis\
+📝 Product category analysis with respect to shipping mode\
+📝 Customer Segment analysis\
+📝 Product category sales analysis\
+📝 Sub-product category with respect to product category sales analysis\
+📝 Sales analysis per year\
+📝 Top 5 State or Province with highest sales\
+📝 Profit analysis with respect to product category\
+📝 Product base margin analysis with respect to product category\
+📝 State wise sales analysis\
+📝 Profits analysis across states\
+📝 Region wise sale analysis\
 
 
 
