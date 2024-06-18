@@ -1,7 +1,7 @@
 
 ## Project Description:
 
-This project leverages various Python libraries to analyze the performance of a global superstore. The insights gained from this analysis will empower stakeholders to make informed decisions in pursuit of their objectives.
+This project leverages various Python libraries to analyze the performance of USA superstores. The insights gained from this analysis will empower stakeholders to make informed decisions in pursuit of their objectives.
 
 ## Data Source:
 
@@ -21,14 +21,14 @@ To prepare the data for analysis, several pre-processing steps were performed, i
 
 📝 Order priorities analysis\
 📝 Ship mode analysis\
-📝 Product category analysis with respect to shipping mode\
+📝 Product category analysis for shipping mode\
 📝 Customer Segment analysis\
 📝 Product category sales analysis\
-📝 Sub-product category with respect to product category sales analysis\
+📝 Sub-product category for product category sales analysis\
 📝 Sales analysis per year\
 📝 Top 5 State or Province with highest sales\
-📝 Profit analysis with respect to product category\
-📝 Product base margin analysis with respect to product category\
+📝 Profit analysis for product category\
+📝 Product base margin analysis for product category\
 📝 State wise sales analysis\
 📝 Profits analysis across states\
 📝 Region wise sale analysis\
